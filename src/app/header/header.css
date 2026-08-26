@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #555;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
