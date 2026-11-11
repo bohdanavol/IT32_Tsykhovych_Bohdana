@@ -7,7 +7,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "variant3": {
+    "students-app": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -57,10 +57,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "variant3:build:production"
+              "buildTarget": "students-app:build:production"
             },
             "development": {
-              "buildTarget": "variant3:build:development"
+              "buildTarget": "students-app:build:development"
             }
           },
           "defaultConfiguration": "development"
